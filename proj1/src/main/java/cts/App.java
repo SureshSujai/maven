@@ -1,4 +1,4 @@
-123package cts;
+package cts;
 
 /**
  * Hello world!
