@@ -1,4 +1,4 @@
-123456package tcs;
+package tcs;
 
 /**
  * Hello world!
